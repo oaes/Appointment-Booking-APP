@@ -1,0 +1,26 @@
+.sidebar {
+    height: 100%;
+    width: 220px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background: rgb(28,188,201);
+    background: linear-gradient(141deg, rgba(28,188,201,1) 34%, rgba(33,201,155,1) 59%); 
+    overflow-x: hidden;
+    padding-top: 50px;
+  }
+  
+  .sidebar .menu-link {
+    padding: 6px 8px 6px 26px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 25px;
+    color: #f7f7f7;
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .sidebar .menu-link:hover {
+    background-color: rgb(12, 167, 125);
+  }

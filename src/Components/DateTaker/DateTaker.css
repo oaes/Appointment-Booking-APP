@@ -1,0 +1,20 @@
+  
+.react-calendar{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px lightgrey;
+    overflow: hidden;
+    
+}
+
+.react-calendar__navigation{
+    margin-bottom: 0px;
+}
+
+.react-calendar__navigation__next2-button, .react-calendar__navigation__prev2-button{
+    display: none;
+}
+
+abbr{
+    text-decoration: none !important;
+}

@@ -1,0 +1,8 @@
+.daily-table-container{
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px lightgrey;
+    max-height: 500px;
+    overflow-y: auto;
+    margin-left: 25px;
+    padding-bottom: 20px;
+}
