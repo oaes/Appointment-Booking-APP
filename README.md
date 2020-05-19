@@ -1,6 +1,6 @@
 ## Doctor Appointment Application
 ---
-![Home Page](https://ibb.co/S04d5fv)
+<a href="https://ibb.co/S04d5fv"><img src="https://i.ibb.co/0ZRFmsJ/Screenshot.png" alt="Screenshot" border="0" /></a>
 
 [Live Site](https://vigilant-pasteur-d7f004.netlify.app/)
 
